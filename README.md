@@ -1,15 +1,9 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--YTd-yHB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bd20dz2e1eoshz4pza2.gif)
 <h1 align="center">Hi 👋, I'm Patrik Ludvik</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
+<h3 align="center">A passionate full stack developer from Czech Republic</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankensteinscript&label=Profile%20views&color=0e75b6&style=flat" alt="frankensteinscript" /> </p>
-
-- 🔭 I’m currently working on [form](https://github.com/FrankensteinScript/form)
-
-- 🌱 I’m currently learning **TS Generics**
-
-- 💬 Ask me about **React, TypeScript**
 
 - 📫 How to reach me **patrikludvik@gmail.com**
 
